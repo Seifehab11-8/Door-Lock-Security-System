@@ -48,9 +48,4 @@ A secure and reliable door lock system implemented to control access via PIN cod
 - `README.md`: Project documentation.
 
 
-## Acknowledgments
-Special thanks to [mention any inspirations, mentors, or collaborators].
-
----
-
 > **Note**: This project is intended for educational purposes only. Ensure secure implementation practices for real-world use.
