@@ -28,14 +28,10 @@ A secure and reliable door lock system implemented to control access via PIN cod
    - (Optional) Connect the buzzer to signal incorrect PIN attempts.
 
 2. **Software Setup**:
-   - Clone this repository:
-     ```bash
-     git clone https://github.com/yourusername/door-lock-system.git
-     ```
-   - Install required libraries (if any) for [microcontroller platform].
+   - Install required libraries for [Atmega 32].
 
 3. **Compile and Upload**:
-   - Use your preferred IDE (e.g., Arduino IDE for Arduino) to compile and upload the code to the microcontroller.
+   - Use your preferred IDE (Eclipse or Atmel Studio) to compile and upload the code to the microcontroller.
 
 ## Usage
 1. **Enter PIN**: Use the keypad to enter your assigned PIN code.
